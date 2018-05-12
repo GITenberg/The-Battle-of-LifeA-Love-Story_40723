@@ -1,0 +1,77 @@
+_repo: The-Battle-of-LifeA-Love-Story_40723
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Maclise, Daniel
+    aliases:
+    - M'Clise, D. (Daniel)
+    - Croquis, Alfred
+    - Maclise, D. (Daniel)
+    birthdate: 1806
+    deathdate: &id001 1870
+    gutenberg_agent_id: '38926'
+    url: http://www.gutenberg.org/2009/agents/38926
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Maclise
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+  - agent_name: Doyle, Richard
+    aliases:
+    - Kitcat, Dick
+    - Doyle, R. (Richard)
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+  - agent_name: Stanfield, Clarkson
+    alias: Stanfield, C. (Clarkson)
+    birthdate: 1793
+    deathdate: 1867
+    gutenberg_agent_id: '38927'
+    url: http://www.gutenberg.org/2009/agents/38927
+    wikipedia: http://en.wikipedia.org/wiki/Clarkson_Stanfield
+covers:
+- cover_type: archival
+  image_path: 40723-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: *id001
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: 'Once upon a time there were two devoted sisters, Grace and Marion. The
+  younger, Marion, is engaged to Alfred, whom the sisters have known since he was
+  a boy. Alfred goes off to seek his fortune, but three years later, the sisters receive
+  a letter saying he''ll return soon to claim his bride. The night Alfred is due to
+  arrive, Marion runs away with a neighboring landowner with a bad reputation who
+  has made no secret of his lust for the beauteous girl. Fast-forward six years: Alfred
+  and Grace are married, but they''ve never stopped mourning Marion. She returns home
+  on Grace''s birthday and reveals that she ran away because she knew that Grace secretly
+  loved Alfred, and wanted to remove herself as an impediment to their union. But
+  Marion isn''t ruined! Far from it! She has been living chastely for the past six
+  years with her aunt. Her virtue has caused the landowner to mend his dissolute ways,
+  and he becomes Marion''s suitor.'
+gutenberg_issued: '2012-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Christmas stories, English'
+- !lcc 'PR'
+title: 'The Battle of Life: A Love Story'
+url: http://www.gutenberg.org/ebooks/40723
