@@ -8,7 +8,7 @@ contributor:
     - Croquis, Alfred
     - Maclise, D. (Daniel)
     birthdate: 1806
-    deathdate: &id001 1870
+    deathdate: 1870
     gutenberg_agent_id: '38926'
     url: http://www.gutenberg.org/2009/agents/38926
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Maclise
@@ -45,7 +45,7 @@ creator:
     - Boz
     - Dickens, Charles John Huffam
     birthdate: 1812
-    deathdate: *id001
+    deathdate: 1870
     gutenberg_agent_id: '37'
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
@@ -61,6 +61,8 @@ description: 'Once upon a time there were two devoted sisters, Grace and Marion.
   Marion isn''t ruined! Far from it! She has been living chastely for the past six
   years with her aunt. Her virtue has caused the landowner to mend his dissolute ways,
   and he becomes Marion''s suitor.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40723#The-Battle-of-LifeA-Love-Story
 gutenberg_issued: '2012-09-10'
 gutenberg_type: Text
 identifiers:
